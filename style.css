@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+h1{
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 45%;
+}
+.mehover{
+    padding: 16px 14px;
+    background-color: #FF3C83;
+    border: dashed;
+    font-family: 'Quicksand', sans-serif;
+    margin-right: 2%;
+    margin-top: 20%;
+    font-size: large;
+}
+.mehover:hover{
+    padding: 16px 14px;
+    background-color: #FFCACA;
+    border: dashed;
+    font-family: 'Quicksand', sans-serif;
+    margin-right: 2%;
+    margin-top: 20%;
+    font-size: large;
+}
+.glow{
+    padding: 16px 14px;
+    background-color: #191e20;
+    border: none;
+    box-shadow: rgba(52, 52, 58, 0.9) 0px 7px 29px 0px;
+    font-family: 'Quicksand', sans-serif;
+    margin-right: 2%;
+    margin-top: 20%;
+    font-size: large;
+    color: white;
+}
